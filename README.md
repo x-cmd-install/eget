@@ -7,7 +7,7 @@ Easily install prebuilt binaries from GitHub.
 - **Latest release**: `v1.3.4` (2024-06-07)
 - **Last commit**: 2024-07-09
 - **License**: MIT
-- **Stars**: 2070 · **Forks**: 70 · **Open issues**: 114 · **Contributors**: 9
+- **Stars**: 2071 · **Forks**: 70 · **Open issues**: 114 · **Contributors**: 9
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/eget> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:24:56Z._
+_Last regenerated: 2026-09-09T19:27:54Z._
