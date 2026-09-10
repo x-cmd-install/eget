@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2790733,
       "digest": null,
-      "download_count": 97284,
+      "download_count": 97290,
       "created_at": "2024-07-09T06:05:15Z",
       "updated_at": "2024-07-09T06:05:16Z",
       "browser_download_url": "https://github.com/zyedidia/eget/releases/download/v1.3.4/eget-1.3.4-linux_amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2554414,
       "digest": null,
-      "download_count": 14878,
+      "download_count": 14880,
       "created_at": "2024-06-07T21:35:20Z",
       "updated_at": "2024-06-07T21:35:21Z",
       "browser_download_url": "https://github.com/zyedidia/eget/releases/download/v1.3.4/eget-1.3.4-linux_arm64.tar.gz"
