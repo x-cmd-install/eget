@@ -29,9 +29,9 @@ Overall score: **2 / 10**
 
 Lowest-scoring checks:
 
-- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (2/10) — Found 8/30 approved changesets -- score normalized to 2
-- **Pinned-Dependencies** (-1/10) — no dependencies found
+- **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
 
@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,086 · **Forks**: 73 · **Open issues**: 114 · **Contributors**: 9
+- **Stars**: 2,086 · **Forks**: 75 · **Open issues**: 114 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-16 | 0 | 0 | 0 | 0 | 2 | 0 |
-| 360d | 2025-10-18 | 0 | 0 | 3 | 1 | 5 | 0 |
-| last720d | 2024-10-23 | 0 | 0 | 6 | 1 | 24 | 0 |
+| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-16 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-17 | 0 | 0 | 0 | 0 | 2 | 0 |
+| 360d | 2025-10-19 | 0 | 0 | 3 | 1 | 5 | 0 |
+| last720d | 2024-10-24 | 0 | 0 | 6 | 1 | 24 | 0 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for eget lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:24:54Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:28:54Z._
