@@ -29,9 +29,9 @@ Overall score: **2 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (2/10) — Found 8/30 approved changesets -- score normalized to 2
-- **Token-Permissions** (-1/10) — No tokens found
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -56,12 +56,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 3 | 1 | 5 | 0 |
-| last720d | 2024-11-01 | 0 | 0 | 6 | 1 | 24 | 0 |
+| 30d | 2026-09-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 3 | 1 | 5 | 0 |
+| last720d | 2024-11-02 | 0 | 0 | 6 | 1 | 24 | 0 |
 
 ## Release assets
 
@@ -78,6 +78,15 @@ Lowest-scoring checks:
 | [eget-1.3.4-windows_386.zip](https://github.com/zyedidia/eget/releases/download/v1.3.4/eget-1.3.4-windows_386.zip) | 2.7 MiB | `native/win/x64` |
 | [eget-1.3.4-windows_amd64.zip](https://github.com/zyedidia/eget/releases/download/v1.3.4/eget-1.3.4-windows_amd64.zip) | 2.7 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **14** distros on [repology.org](https://repology.org/project/eget). **8** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.3.4` | ✅ latest |
+| Nix unstable | `1.3.4` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for eget lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `eget` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +96,4 @@ Install metadata for eget lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:14:44Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:23:53Z._
