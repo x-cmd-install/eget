@@ -23,16 +23,6 @@ x install eget
 | Markdown | 0 | 445 | 175 | 3 |
 | Toml | 0 | 0 | 0 | 1 |
 
-## OpenSSF Scorecard 评分
-
-总评分: **2 / 10**
-
-评分最低的几项:
-
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
-- **Packaging** (-1/10) — packaging workflow not detected
-
 ## 源代码
 
 - **上游仓库**: <https://github.com/zyedidia/eget>
@@ -46,7 +36,7 @@ x install eget
 
 ## 流行度
 
-- **Star**: 2,106 · **Fork**: 75 · **开放 issue**: 115 · **贡献者**: 9
+- **Star**: 2,104 · **Fork**: 75 · **开放 issue**: 115 · **贡献者**: 9
 
 ## 累计统计
 
@@ -56,12 +46,12 @@ x install eget
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-05-21 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-11-22 | 0 | 0 | 1 | 0 | 4 | 0 |
-| last720d | 2024-11-27 | 0 | 0 | 5 | 1 | 24 | 0 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-05-23 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 360d | 2025-11-24 | 0 | 0 | 1 | 0 | 4 | 0 |
+| last720d | 2024-11-29 | 0 | 0 | 5 | 1 | 24 | 0 |
 
 ## Release 资产
 
@@ -78,6 +68,15 @@ x install eget
 | [eget-1.3.4-windows_386.zip](https://github.com/zyedidia/eget/releases/download/v1.3.4/eget-1.3.4-windows_386.zip) | 2.7 MiB | `native/win/x64` |
 | [eget-1.3.4-windows_amd64.zip](https://github.com/zyedidia/eget/releases/download/v1.3.4/eget-1.3.4-windows_amd64.zip) | 2.7 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/eget) 上共有 **14** 个发行版报告此项目。**8** 个 ✅ 已是最新上游版本，**2** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.3.4` | ✅ latest |
+| Nix unstable | `1.3.4` | ✅ latest |
+
 ## 改进这些数据
 
 eget 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `eget` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -87,4 +86,4 @@ eget 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T10:21:28Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T09:34:09Z._

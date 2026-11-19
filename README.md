@@ -23,16 +23,6 @@ Total: **2,040** lines of code across **19** files in the top 5 languages.
 | Markdown | 0 | 445 | 175 | 3 |
 | Toml | 0 | 0 | 0 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **2 / 10**
-
-Lowest-scoring checks:
-
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
-- **Packaging** (-1/10) — packaging workflow not detected
-
 ## Source
 
 - **Upstream**: <https://github.com/zyedidia/eget>
@@ -46,7 +36,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,106 · **Forks**: 75 · **Open issues**: 115 · **Contributors**: 9
+- **Stars**: 2,104 · **Forks**: 75 · **Open issues**: 115 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -56,12 +46,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last180d | 2026-05-21 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-11-22 | 0 | 0 | 1 | 0 | 4 | 0 |
-| last720d | 2024-11-27 | 0 | 0 | 5 | 1 | 24 | 0 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-05-23 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 360d | 2025-11-24 | 0 | 0 | 1 | 0 | 4 | 0 |
+| last720d | 2024-11-29 | 0 | 0 | 5 | 1 | 24 | 0 |
 
 ## Release assets
 
@@ -78,6 +68,15 @@ Lowest-scoring checks:
 | [eget-1.3.4-windows_386.zip](https://github.com/zyedidia/eget/releases/download/v1.3.4/eget-1.3.4-windows_386.zip) | 2.7 MiB | `native/win/x64` |
 | [eget-1.3.4-windows_amd64.zip](https://github.com/zyedidia/eget/releases/download/v1.3.4/eget-1.3.4-windows_amd64.zip) | 2.7 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **14** distros on [repology.org](https://repology.org/project/eget). **8** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.3.4` | ✅ latest |
+| Nix unstable | `1.3.4` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for eget lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `eget` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -87,4 +86,4 @@ Install metadata for eget lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:21:27Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:34:09Z._
